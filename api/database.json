@@ -1,0 +1,15 @@
+{
+  "clowns": [],
+  "reservations": [
+    {
+      "id": 1,
+      "parentName": "Kelsey",
+      "childName": "Eli",
+      "numOfChildren": 20,
+      "address": "1201 church st",
+      "date": "11/13/21",
+      "hours": 4
+    }
+  ],
+  "completedParties": []
+}
